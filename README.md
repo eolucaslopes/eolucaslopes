@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas. 
 
-Sou um entusiasta da programação, especialmente interessado na Stack JavaScript. Estou nos estágios iniciais da minha jornada de aprendizado e estou explorando os fundamentos do JavaScript. Meu objetivo é absorver o máximo de conhecimento possível e progredir gradualmente em direção a projetos mais complexos. Estou aberto a colaborações e ansioso para aprender com a comunidade. Acompanhe minha jornada enquanto eu mergulho no mundo da programação! 😊🚀 👋
+Sou um entusiasta da programação, especialmente interessado na Stack Javascript. Estou nos estágios iniciais da minha jornada de aprendizado e estou explorando os fundamentos do Javascript. Meu objetivo é absorver o máximo de conhecimento possível e progredir gradualmente em direção a projetos mais complexos. Estou aberto a colaborações e ansioso para aprender com a comunidade. Acompanhe minha jornada enquanto eu mergulho no mundo da programação! 😊🚀 👋
 
 <br/>
 
